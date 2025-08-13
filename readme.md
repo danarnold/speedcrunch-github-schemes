@@ -4,6 +4,10 @@ This is a set of color schemes for [SpeedCrunch](https://heldercorreia.bitbucket
 
 ## Installation
 
+Copy the theme files (ending in .json) to your SpeedCrunch color schemes
+directory. The directories for each platform are listed below. Close and reopen
+SpeedCrunch and it should show the new color schemes in your color scheme menu.
+
 The following instructions are adapted from the [SpeedCrunch user manual](https://heldercorreia.bitbucket.io/speedcrunch/advanced/colorschemeformat.html).
 
 Color scheme files are loaded from the following directory:
